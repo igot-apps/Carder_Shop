@@ -1,0 +1,13 @@
+.stack {
+	z-index: 1;
+	background-color: red;
+}
+
+.Error-Text{
+	font-size: 20px;
+	background-color: pink;
+}
+
+.font{
+	font-size: 20px;
+}
